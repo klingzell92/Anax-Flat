@@ -1,3 +1,4 @@
 ####Download
 
-* [GitHub](https://github.com/klingzell92)
+* [GitHub](https://github.com/canax/anax-flat)
+* [Packagist](https://packagist.org/packages/mos/anax-flat)

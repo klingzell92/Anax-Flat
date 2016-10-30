@@ -75,7 +75,7 @@ return [
             "data" => [],
             "sort" => 1
         ],
-        [
+        /*[
             "region" => "footer",
             "template" => "default/columns",
             "data" => [
@@ -92,8 +92,8 @@ return [
                     ]
                 ]
             ],
-            "sort" => 1
-        ],
+            //"sort" => 1
+        ],*/
         [
             "region" => "footer",
             "template" => "default/block",

@@ -1,5 +1,5 @@
 Copyright &copy; 2016 Philip Klingzell
 
-* [License](license)
+* [Licens](license)
 * [Cookies](cookies)
-* [Contact](contact)
+* [Kontakt](contact)
