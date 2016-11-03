@@ -1,4 +1,4 @@
-<div style="border: 1px solid #999; width: 400px; overflow: auto; margin: 5px;">
+<div class = "byline">
 <figure style="    margin: 5px 5px 5px 5px; float:left;">
 <img src="img/philip.JPG" width="60px"/>
 </figure>

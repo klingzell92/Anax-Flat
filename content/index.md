@@ -27,4 +27,4 @@ Dessutom så har jag ett stort intresse för film och serier. Just nu tycker jag
 Och på seriefronten finns det inget som är bättre en Seinfeld.
 
 <!--![Golfbana](img/Golfbana.JPG "Ombergs GK")!-->
-<img src="img/Golfbana.JPG" width="400px" height="400px" />
+<img src="img/Golfbana.JPG" width="400px" height="400px" class="golfImage" />
