@@ -25,7 +25,7 @@ return [
             //"stylesheets" => ["css/default.min.css"],
             //"stylesheets" => ["css/style.min.css"],
             "stylesheets" => [
-                "css/style.min.css",
+                "css/color.min.css",
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
             ],
             "styleInline" => null,
@@ -42,7 +42,7 @@ return [
      * Add default views to always include.
      */
     "views" => [
-        [
+        /*[
             "region" => "header",
             "template" => "default/image",
             "data" => [
@@ -51,7 +51,7 @@ return [
                 "alt" => "Logo",
             ],
             "sort" => 1
-        ],
+        ],*/
         [
             "region" => "header",
             "template" => "default/header",

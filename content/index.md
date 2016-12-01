@@ -24,7 +24,7 @@ slut.
 Förövrigt ägnar jag mig mycket åt att spela gitarr som jag har börjat med i år.
 Jag har äntligen blivit tllräckligt bra för att kunna spelar låtar som jag själv uppskattar, så det blir mycket Beatles och Bob Dylan
 Dessutom så har jag ett stort intresse för film och serier. Just nu tycker jag mycket om Wes Andersons filmer som är väldigt roliga och de har en lite egen stil som jag tycker om.
-Och på seriefronten finns det inget som är bättre en Seinfeld.
+Och på seriefronten finns det inget som är bättre än Seinfeld.
 
 <!--![Golfbana](img/Golfbana.JPG "Ombergs GK")!-->
 <img src="img/Golfbana.JPG" width="400px" height="400px" class="golfImage" />

@@ -38,6 +38,22 @@ return [
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Showing background grid")
             ],
+
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analyzing websites")
+            ],
+            "theme" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Themes on the website")
+            ],
+            "theme-selector" => [
+                "text"  => t("Välj Tema"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Choose a theme")
+            ],
         ],
     ],
 
@@ -78,6 +94,24 @@ return [
                 "text"  => t("Typografi"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Showing background grid")
+            ],
+
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analyzing websites")
+            ],
+
+            "theme" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Themes on the website")
+            ],
+            
+            "theme-selector" => [
+                "text"  => t("Välj Tema"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Choose a theme")
             ],
         ],
     ],
