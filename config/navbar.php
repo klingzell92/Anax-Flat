@@ -54,6 +54,16 @@ return [
                 "url"   => $this->di->get("url")->create("theme-selector"),
                 "title" => t("Choose a theme")
             ],
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg")
+            ],
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Testing out the figur.less module")
+            ],
         ],
     ],
 
@@ -107,11 +117,21 @@ return [
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Themes on the website")
             ],
-            
+
             "theme-selector" => [
                 "text"  => t("Välj Tema"),
                 "url"   => $this->di->get("url")->create("theme-selector"),
                 "title" => t("Choose a theme")
+            ],
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg")
+            ],
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Testing out the figur.less module")
             ],
         ],
     ],
