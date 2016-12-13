@@ -84,5 +84,32 @@ return [
             "class"      => "fun",
             "stylesheets" => []
         ],
+
+        "separator3" => "------------------------------------------------",
+
+        "contrast"       => [
+            "title"      => " contrast",
+            "class"      => "contrast",
+            "stylesheets" => [
+                "css/contrast.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+            ]
+        ],
+        "depth"       => [
+            "title"      => " depth",
+            "class"      => "depth",
+            "stylesheets" => [
+                "css/depth.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+            ]
+        ],
+        "unity"       => [
+            "title"      => " unity",
+            "class"      => "unity",
+            "stylesheets" => [
+                "css/unity.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+            ]
+        ],
     ]
 ];

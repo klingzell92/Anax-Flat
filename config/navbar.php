@@ -44,9 +44,9 @@ return [
                 "url"   => $this->di->get("url")->create("analysis"),
                 "title" => t("Analyzing websites")
             ],
-            "theme" => [
-                "text"  => t("Tema"),
-                "url"   => $this->di->get("url")->create("theme"),
+            "teman" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("teman"),
                 "title" => t("Themes on the website")
             ],
             "theme-selector" => [
@@ -112,9 +112,9 @@ return [
                 "title" => t("Analyzing websites")
             ],
 
-            "theme" => [
-                "text"  => t("Tema"),
-                "url"   => $this->di->get("url")->create("theme"),
+            "teman" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("teman"),
                 "title" => t("Themes on the website")
             ],
 
