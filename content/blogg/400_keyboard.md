@@ -6,7 +6,10 @@ category:
 ...
 Tangentbord
 ==================================
-[FIGURE src="image/keyboard.jpg" class="center w100"]
+<div class="wrap">
+    [FIGURE src="image/keyboard.jpg" class="center w100"]
+    <img src="image/ribbon.png?w=70" class="ribbon"/>
+</div>
 En bild på mitt lite dammiga tangentbord som jag använder för att skriva all min kod.
 <!--more-->
 

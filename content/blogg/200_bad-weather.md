@@ -6,7 +6,10 @@ category:
 ...
 Blåsigt
 ==================================
-[FIGURE src="image/bad_weather.jpg" class="center w100"]
+<div class="wrap">
+    [FIGURE src="image/bad_weather.jpg" class="center w100"]
+    <img src="image/ribbon.png?w=70" class="ribbon"/>
+</div>
 Den här bilden är också från min semester i Grekland.
 Som man kan se på bilden så var det inte lika bra väder den här dagen och det
 blåste nästan storm. Bilden togs på stranden vid hotellet med min LG G4.

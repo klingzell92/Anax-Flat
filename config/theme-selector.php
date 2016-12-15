@@ -111,5 +111,33 @@ return [
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
             ]
         ],
+
+        "separator4" => "------------------------------------------------",
+
+
+        "background"       => [
+            "title"      => " background",
+            "class"      => "background",
+            "stylesheets" => [
+                "css/background.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+            ]
+        ],
+        "texture"       => [
+            "title"      => "texture",
+            "class"      => "texture",
+            "stylesheets" => [
+                "css/texture.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+            ]
+        ],
+        "gradient"       => [
+            "title"      => "gradient",
+            "class"      => "gradient",
+            "stylesheets" => [
+                "css/gradient.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+            ]
+        ],
     ]
 ];

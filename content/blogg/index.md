@@ -5,7 +5,7 @@ views:
         region: flash
         template: default/image
         data:
-            src: "img/piano3.jpg"
+            src: "image/piano3.jpg?w=1700&crop-to-fit"
     main:
         template: default/article
         data:
